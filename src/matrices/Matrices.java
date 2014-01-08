@@ -30,7 +30,7 @@ public class Matrices {
         for(int i=0;i<m.length;i++){
         //recorremos por columnas
             for(int j=0;j<m[i].length;j++){
-                System.out.println("Dame un elemento");  
+                System.out.println("Dame ARGO");  
             m[i][j]=sc.nextInt();
             }
         }
